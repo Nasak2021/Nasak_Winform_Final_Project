@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\bin\Debug\Winform Final Project.exe.config
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\bin\Debug\Winform Final Project.exe
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\bin\Debug\Winform Final Project.pdb
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform Final Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform_Final_Project.Form1.resources
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform_Final_Project.Properties.Resources.resources
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform Final Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform Final Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform Final Project.exe
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform Final Project.pdb
+C:\Users\User\Desktop\Visul studio\Winform Final Project\Winform Final Project\obj\Debug\Winform_Final_Project.Form2.resources
